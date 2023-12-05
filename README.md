@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Kumar @sachink1010
-- 👀 I’m interested in all AWS, Terraform, CI/CD and most of the DevOps stuff.
+- 👀 I’m interested in all AWS, Terraform, CI/CD and all things DevOps.
 - 🌱 I’m currently learning Python.
 - 📫 @Sachink1010@outlook.com
 
